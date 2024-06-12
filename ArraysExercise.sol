@@ -3,7 +3,7 @@ pragma solidity ^0.8.17;
 
 // @title ArraysExercise
 // @notice This contract is used to test the overflow detection
-// @author NelsonRodMar
+// @author CastleUp
 contract ArraysExercise {
     // @notice This array contains the numbers from 1 to 10
     uint256[] public numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
