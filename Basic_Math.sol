@@ -3,7 +3,7 @@ pragma solidity ^0.8.17;
 
 // @title BasicMath
 // @notice This contract provides functions to test for overflow detection in basic arithmetic operations.
-// @author NelsonRodMar
+// @author CastleUp
 contract BasicMath {
     constructor() {}
 
